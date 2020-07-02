@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="diffwheel_robot_control" type="diffwheel_robot_control_node"  name="diffwheel_robot_control_node" output="screen" />
+
+</launch>
